@@ -1,11 +1,10 @@
 # Sick Fits
 
-I am working on this project following completion of the React for Beginners course from Wes Bos. For this project I am following Wes Bos's Fullstack Advanced React and GraphQL course to further my knowledge and confidence in working with React.
+I am working on this project following the completion of the React for Beginners course from Wes Bos. For this project I am following Wes Bos's Fullstack Advanced React and GraphQL course to further my knowledge and confidence in working with React.
 
 ## Table of Contents
 
 - [Description](#description)
-- [User Story](#user_story)
 - [Technologies](#technologies)
 - [Launch](#launch)
 - [Project Status](#project-status)
