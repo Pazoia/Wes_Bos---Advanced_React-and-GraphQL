@@ -1,25 +1,25 @@
-# Project Name
+# Sick Fits
 
-Brief introduction of project
+I am working on this project following completion of the React for Beginners course from Wes Bos. For this project I am following Wes Bos's Fullstack Advanced React and GraphQL course to further my knowledge and confidence in working with React.
 
 ## Table of Contents
 
-* [Description](#description)
-* [User Story](#user_story)
-* [Technologies](#technologies)
-* [Launch](#launch)
-* [Project Status](#project-status)
-* [Sources](#sources)
+- [Description](#description)
+- [User Story](#user_story)
+- [Technologies](#technologies)
+- [Launch](#launch)
+- [Project Status](#project-status)
+- [Sources](#sources)
 
 ## Description
 
-Describe what the project does, 
-
-## User Story
+Describe what the project does,
 
 ## Technologies
 
-Ruby 2.6.3
+React
+MongoDB
+GraphQL
 
 ## Launch
 
@@ -29,10 +29,10 @@ Will need help filling out this field. To be completed.
 
 Work in progress:
 
-* Completed step 1
-* No spec file for testing created yet
+-
+-
 
 ## Sources
 
-This was was created following a tutorial from Makers (the best place to learn how code well).  
-[Github tutorial link](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+This was was created following a tutorial from Wes Bos.  
+[Tutorial link](https://advancedreact.com/)
