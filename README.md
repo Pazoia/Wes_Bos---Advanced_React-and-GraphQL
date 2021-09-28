@@ -16,9 +16,18 @@ Describe what the project does,
 
 ## Technologies
 
-React
-MongoDB
-GraphQL
+Front-End:
+
+- React
+- Next.js
+- Apollo Client
+- Styled Components
+
+Back-End:
+
+- Keystone.js
+- Node
+- MongoDB
 
 ## Launch
 
@@ -28,7 +37,7 @@ Will need help filling out this field. To be completed.
 
 Work in progress:
 
--
+- Lesson 1 - Tooling and Starter Files setup
 -
 
 ## Sources
